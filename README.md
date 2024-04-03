@@ -26,8 +26,12 @@ converted the member_casual column to True/False rather than strings
 mapped the values of the rideable_type column to single characters rather than full strings
 "classic_bike" -> "C"
 "electric_bike" -> "E"
-"docked_bike" -> "D"
 dropped all rows that were missing any data
+
+# Tableau Public
+
+I saved the workbook on Tableau public platform:
+https://public.tableau.com/app/profile/aayush.chhaperwal/viz/CitiBike__Toronto/Story?publish=yes
 
 # Analysis
 
