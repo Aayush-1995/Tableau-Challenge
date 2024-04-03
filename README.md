@@ -2,7 +2,7 @@
 
 # Data
 
-I collected December 2022, January 2023 and February 2023 data from the New York CitiBike data website.
+I collected December 2023, January 2024 and February 2024 data from the New York CitiBike data website.
 
 This data had the fields:
 
@@ -47,7 +47,7 @@ On this dashboard we see the total values for the winter season. Here we see som
 
 While the vast majority of rides are half an hour or less, decreasing as time goes on, the number of very long rides stays relatively constant.
 Most rides are a under a mile to their ending station.
-Non-member ride time is on average about 20 minutes, nearly double member ride time. However, both travel about the same average distance of a little over 1 mile. This could be due to many non-members being tourists, making stops between their destinations or being unfamiliar with the area.
+Non-member ride time is on average about 50 minutes, nearly double member ride time. However, both travel about the same average distance of a little over 1.5 mile. This could be due to many non-members being tourists, making stops between their destinations or being unfamiliar with the area.
 Popular Stations
 
 The most popular stations for beginning and ending rides are in central Manhattan. This is likely due to the high density of housing and population, as show in the background layers of the two maps.
